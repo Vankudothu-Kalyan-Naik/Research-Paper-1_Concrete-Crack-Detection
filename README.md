@@ -1,4 +1,4 @@
-**Quantitative Analysis of Crack Growth and Severity in Reinforced Concrete Structures Using Deep Learning and Computer Vision**
+**Automated Multi-Class Concrete Crack Detection and Severity Classification Using CNN-Based Deep Learning**
 **Abstract**
 Structural integrity is a cornerstone of sustainable and safe infrastructure development, particularly in concrete structures, which form the backbone of modern civil engineering. Over time, these structures are susceptible to deterioration in the form of cracks and corrosion, primarily due to environmental factors, mechanical stress, and chemical reactions. If left undetected, such defects can compromise safety, leading to costly repairs or catastrophic failures. Conventional inspection techniques, including manual surveys and non-destructive testing (NDT), are often labor-intensive, time-consuming, and subject to human limitations, making them inefficient for large-scale or frequent monitoring.
 
